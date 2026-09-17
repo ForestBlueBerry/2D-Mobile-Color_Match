@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0942d63afba6d40a9400ceb0962abb, type: 3}
+  m_Name: BlueFish
+  m_EditorClassIdentifier: Assembly-CSharp::FishSO
+  _prefab: {fileID: 1047496610343918314, guid: a4fbca6caa0858f4088b5fbcc2fc5d02, type: 3}
+  Type: 1
+  SwimSpeed: 1.5
+  FallSpeed: 4
+  ScoreValue: 10
